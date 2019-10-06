@@ -2,6 +2,8 @@
   "name": "offercoming",
   "version": "0.1.0",
   "private": true,
+
+"homepage": "https://tdmhang.github.io/game-of-life",
   "dependencies": {
     "@material-ui/core": "^4.4.1",
     "@material-ui/icons": "^4.4.1",
@@ -12,8 +14,7 @@
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
-    "private": true,
-"homepage": "https://tdmhang.github.io/game-of-life"
+
   },
   "scripts": {
     "start": "react-scripts start",
