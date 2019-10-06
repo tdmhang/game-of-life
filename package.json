@@ -13,7 +13,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
     "private": true,
-"homepage": "https://xxx.github.io/theApp"
+"homepage": "https://tdmhang.github.io/game-of-life"
   },
   "scripts": {
     "start": "react-scripts start",
