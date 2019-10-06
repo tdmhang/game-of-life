@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+<style>
+    div{
+        height: 0;
+        width: 0;
+        border-bottom: solid 100px red;
+        border-left:  50px  solid transparent ;
+        border-right:50px  solid transparent;
+    }
+
+</style>
+</head>
+<body>
+
+<div></div>
+</body>
+
+<script> document.getElementById('parent-list').addEventListener('click',function (e) {
+    console.log('List item',e.target.id.replace('post-','')," was clicked")
+})</script>
+
+
+</html>
